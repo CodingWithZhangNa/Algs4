@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class BubbleSort {
 
     public static void main(String[] args) {
-        int arr[] = {3, 9, -1, 10, 20};
+        int[] arr = {3, 9, -1, 10, 20};
         System.out.println("排序前");
         System.out.println(Arrays.toString(arr));
 
