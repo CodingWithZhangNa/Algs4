@@ -42,7 +42,7 @@ public class QuickSort {
                 r--;
             }
             //如果交换完后，发现这个arr[r] == pivot,l++
-            if(arr[l] == pivot){
+            if(arr[r] == pivot){
                 l++;
             }
 
